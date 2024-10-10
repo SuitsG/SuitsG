@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Backend developer from Bogota D.C, Colombia.</h3>
 
 - 🌱 I’m currently learning **Spring Boot**
-  I am passionate about technology, especially in the area of ​​web development, both frontend and backend, and database management. I am interested in how these areas come together to create complete, functional and efficient solutions. Currently, I am in an initial stage of my training, learning and delving into these technologies to acquire the necessary skills to contribute to development projects. My focus is on improving my skills in programming languages, database tools and web frameworks, with the goal of becoming a well-rounded developer.
+ <p text-align: justify;> I am passionate about technology, especially in the area of ​​web development, both frontend and backend, and database management. I am interested in how these areas come together to create complete, functional and efficient solutions. Currently, I am in an initial stage of my training, learning and delving into these technologies to acquire the necessary skills to contribute to development projects. My focus is on improving my skills in programming languages, database tools and web frameworks, with the goal of becoming a well-rounded developer.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
