@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hola, soy Yesid Casallas 👋</h1>
+<h1 align="center">Hello, I am Yesid Casallas 👋</h1>
 </div>
 <img src="https://i.imgur.com/weNbhGZ.png">
 
