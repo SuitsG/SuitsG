@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yesid Casallas</h1>
-<h3 align="center">A passionate Backend developer from Bogota D.C,Colombia.</h3>
+<h3 align="center">A passionate Backend developer from Bogota D.C, Colombia.</h3>
 
 - 🌱 I’m currently learning **Spring Boot**
 
