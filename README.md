@@ -7,9 +7,7 @@
   <img src="https://img.shields.io/badge/Open%20to%20Collaboration-%E2%9C%85-green" />
 </p>
 
----
-### 🛍️ Clothing E-Commerce  
-An online store in development where I apply my knowledge in **web design, databases, and backend development**.  
+--- 
 
 ## 🚀 Main Project  
 <h3>🛍️ <a href="https://github.com/SuitsG/store" target="_blank">Clothing E-Commerce</a></h3>
