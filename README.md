@@ -1,8 +1,30 @@
 <h1 align="center">Hi 👋, I'm Yesid Casallas</h1>
 <h3 align="center">A passionate Backend developer from Bogota D.C, Colombia.</h3>
 
-- 🌱 I’m currently learning **Spring Boot**
- <p text-align: justify;> I am passionate about technology, especially in the area of ​​web development, both frontend and backend, and database management. I am interested in how these areas come together to create complete, functional and efficient solutions. Currently, I am in an initial stage of my training, learning and delving into these technologies to acquire the necessary skills to contribute to development projects. My focus is on improving my skills in programming languages, database tools and web frameworks, with the goal of becoming a well-rounded developer.</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Engineering%20Student-%F0%9F%92%BB-blue" />
+  <img src="https://img.shields.io/badge/Web%20Development-%F0%9F%9A%80-orange" />
+  <img src="https://img.shields.io/badge/Open%20to%20Collaboration-%E2%9C%85-green" />
+</p>
+
+---
+
+## 🚀 Main Project  
+### 🛍️ Clothing E-Commerce  
+An online store in development where I apply my knowledge in **web design, databases, and backend development**.  
+
+🛠 **Technologies Used:**  
+- ⚡ **Frontend:** HTML, CSS, JavaScript, <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white" /> / <img src="https://img.shields.io/badge/Vue-4FC08D?logo=vue.js&logoColor=white" /> / <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" /> *(choose one)*  
+- 🖥 **Backend:** <img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white" /> / <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" /> / <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white" /> *(choose one)*  
+- 🗄 **Database:** <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" /> / <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" /> / <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" /> *(choose one)*  
+
+---
+
+## 📚 Other Projects & Progress  
+📌 **Academic Projects:** Applications and exercises related to my studies.  
+🔬 **Experimentation:** Testing new technologies and frameworks.  
+📖 **Useful Resources:** Notes and guides to help other students.  
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
