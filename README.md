@@ -14,7 +14,7 @@
 <p>An online store in development where I apply my knowledge in web design, databases, and backend development.</p>
 
 🛠 **Technologies Used:**  
-- ⚡ **Frontend:** HTML, CSS, JavaScript, <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white" /> / <img src="https://img.shields.io/badge/Vue-4FC08D?logo=vue.js&logoColor=white" /> / <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" /> *(choose one)*  
+- ⚡ **Frontend:** HTML, CSS, JavaScript, <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white" /> *(choose one)*  
 - 🖥 **Backend:** <img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white" /> / <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" /> / <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white" /> *(choose one)*  
 - 🗄 **Database:** <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" /> / <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" /> / <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" /> *(choose one)*  
 
